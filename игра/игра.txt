@@ -1,1 +1,2 @@
 1. Попытаться заменить наследование GameStateManager : IGameLoopObject, на создание класса без наследования, но с методами IGameLoopObject
+аыыавывааыв
