@@ -1,0 +1,2 @@
+d:\Diploms 2013-2014\Христенко\Content\TickTick\obj\x86\Debug\TickTick.contentprojResolveAssemblyReference.cache
+D:\Dropbox\игра\Content\TickTick\obj\x86\Debug\TickTick.contentprojResolveAssemblyReference.cache

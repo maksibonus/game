@@ -1,0 +1,14 @@
+d:\Diploms 2013-2014\Христенко\GameManagement\bin\x86\Debug\GameManagement.dll
+d:\Diploms 2013-2014\Христенко\GameManagement\bin\x86\Debug\GameManagement.pdb
+d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.dll
+d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.pdb
+D:\Dropbox\игра\GameManagement\bin\x86\Debug\GameManagement.dll
+D:\Dropbox\игра\GameManagement\bin\x86\Debug\GameManagement.pdb
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.dll
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.pdb
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.UserControl1.resources
+D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache
