@@ -56,5 +56,21 @@ namespace GameTests
         }
 
         #endregion Властивості
+
+        #region Методи
+
+        // Повертає true, якщо відповідь за вказаним номером є вірною.
+        public bool IsRightAnswer(int answerIndex)
+        {
+            return answers[answerIndex].IsRight;
+        }
+
+        // Повертає true, якщо відповідь за вказаним текстом є вірною.
+        public bool IsRightAnswer(string answerText)
+        {
+            return answers[answerText].IsRight;
+        }
+
+        #endregion Методи
     }
 }

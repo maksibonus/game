@@ -2,20 +2,56 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Collections;
 
 namespace GameTests
 {
     // Колекція відповідей.
-    public class AnswerCollection
+    public class AnswerCollection : IEnumerable, IEnumerator
     {
         #region Поля класу
 
         List<Answer> answers;       // список відповідей
         int rightCount;             // кількість правильних відповідей
+        int index;                  // індекс, що використовується інтерфейсом IEnumerator
 
         #endregion Поля класу
 
-#warning Реалізувати інтерфейси IEnumerable, IEnumerator!
+        #region Реалізація інтерфейсів
+
+        // Реалізуємо інтерфейс IEnumerable
+        public IEnumerator GetEnumerator()
+        {
+            return this;
+        }
+
+        // Реалізуємо інтерфейс IEnumerator
+        public bool MoveNext()
+        {
+            if (index == answers.Count - 1)
+            {
+                Reset();
+                return false;
+            }
+
+            index++;
+            return true;
+        }
+
+        public void Reset()
+        {
+            index = -1;
+        }
+
+        public object Current
+        {
+            get
+            {
+                return answers[index];
+            }
+        }
+
+        #endregion Реалізація інтерфейсів
 
         #region Конструктори
 
@@ -23,6 +59,7 @@ namespace GameTests
         public AnswerCollection()
         {
 #warning Додати реалізацію!
+            index = -1;
         }
 
         #endregion Конструктори

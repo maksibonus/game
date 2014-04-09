@@ -12,3 +12,11 @@ D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.dll
 D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.pdb
 D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.UserControl1.resources
 D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.pdb
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.UserControl1.resources
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.pdb

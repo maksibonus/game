@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
-      <Time>2012-06-03T13:58:04+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2014-04-09T17:51:51.6857464+03:00</Time>
     </Item>
     <Item>
       <Source>Fonts\HintFont.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\HintFont.xnb</Output>
-      <Time>2012-06-05T22:07:16+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\HintFont.xnb</Output>
+      <Time>2014-04-09T17:51:51.6837462+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_fall.wma</Source>
@@ -25,8 +25,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_fall.xnb</Output>
-      <Time>2011-06-14T12:17:48+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_fall.xnb</Output>
+      <Time>2014-04-09T17:51:51.9317604+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_jump.wma</Source>
@@ -34,8 +34,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_jump.xnb</Output>
-      <Time>2011-06-14T12:17:48+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_jump.xnb</Output>
+      <Time>2014-04-09T17:51:51.9797632+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_die.wma</Source>
@@ -43,8 +43,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_die.xnb</Output>
-      <Time>2011-06-27T09:41:56+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_die.xnb</Output>
+      <Time>2014-04-09T17:51:51.9017587+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_won.wma</Source>
@@ -52,8 +52,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_won.xnb</Output>
-      <Time>2011-06-29T05:49:36+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_won.xnb</Output>
+      <Time>2014-04-09T17:51:51.9837634+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_watercollected.wma</Source>
@@ -61,8 +61,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_watercollected.xnb</Output>
-      <Time>2011-06-29T05:49:36+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_watercollected.xnb</Output>
+      <Time>2014-04-09T17:51:52.011765+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_sky.jpg</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_sky.xnb</Output>
-      <Time>2012-06-01T00:54:08+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_sky.xnb</Output>
+      <Time>2014-04-09T17:51:51.6687454+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_3.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_3.xnb</Output>
-      <Time>2012-05-30T15:04:12+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_3.xnb</Output>
+      <Time>2014-04-09T17:51:51.5697397+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_4.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_4.xnb</Output>
-      <Time>2012-05-30T15:04:16+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_4.xnb</Output>
+      <Time>2014-04-09T17:51:51.5837405+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_5.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_5.xnb</Output>
-      <Time>2012-05-30T15:04:18+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_5.xnb</Output>
+      <Time>2014-04-09T17:51:51.5897409+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_mountain_1.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_1.xnb</Output>
-      <Time>2012-05-30T15:04:22+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_1.xnb</Output>
+      <Time>2014-04-09T17:51:51.6467441+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_mountain_2.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_2.xnb</Output>
-      <Time>2012-05-30T15:04:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_2.xnb</Output>
+      <Time>2014-04-09T17:51:51.6647452+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_2.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_2.xnb</Output>
-      <Time>2012-06-01T00:56:02+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_2.xnb</Output>
+      <Time>2014-04-09T17:51:51.5317375+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_1.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_1.xnb</Output>
-      <Time>2012-05-30T15:04:32+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_1.xnb</Output>
+      <Time>2014-04-09T17:51:51.5257372+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_water.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_water.xnb</Output>
-      <Time>2012-05-30T16:24:10+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_water.xnb</Output>
+      <Time>2014-04-09T17:51:52.2707798+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform_hot.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_hot.xnb</Output>
-      <Time>2012-05-31T12:54:06+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_hot.xnb</Output>
+      <Time>2014-04-09T17:51:52.3047818+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform_ice.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_ice.xnb</Output>
-      <Time>2012-05-31T12:54:06+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_ice.xnb</Output>
+      <Time>2014-04-09T17:51:52.343784+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform.xnb</Output>
-      <Time>2012-05-31T12:54:32+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform.xnb</Output>
+      <Time>2014-04-09T17:51:52.3017816+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall.xnb</Output>
-      <Time>2012-05-31T12:55:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall.xnb</Output>
+      <Time>2014-04-09T17:51:52.3457841+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall_hot.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_hot.xnb</Output>
-      <Time>2012-05-31T12:55:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_hot.xnb</Output>
+      <Time>2014-04-09T17:51:52.3497843+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall_ice.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_ice.xnb</Output>
-      <Time>2012-05-31T12:55:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_ice.xnb</Output>
+      <Time>2014-04-09T17:51:52.3517844+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_goal.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_goal.xnb</Output>
-      <Time>2012-05-31T13:00:44+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_goal.xnb</Output>
+      <Time>2014-04-09T17:51:52.1437725+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_die@5.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_die@5.xnb</Output>
-      <Time>2012-05-31T16:51:44+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_die@5.xnb</Output>
+      <Time>2014-04-09T17:51:52.046767+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_jump@14.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_jump@14.xnb</Output>
-      <Time>2012-06-05T16:17:56+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_jump@14.xnb</Output>
+      <Time>2014-04-09T17:51:52.0737685+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_run@13.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_run@13.xnb</Output>
-      <Time>2012-05-31T16:51:42+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_run@13.xnb</Output>
+      <Time>2014-04-09T17:51:52.0807689+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_explode@5x5.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_explode@5x5.xnb</Output>
-      <Time>2012-05-31T18:05:00+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_explode@5x5.xnb</Output>
+      <Time>2014-04-09T17:51:52.063768+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_idle.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_idle.xnb</Output>
-      <Time>2012-05-31T18:29:26+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_idle.xnb</Output>
+      <Time>2014-04-09T17:51:52.0667681+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Turtle\spr_idle.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_idle.xnb</Output>
-      <Time>2012-05-31T18:51:56+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_idle.xnb</Output>
+      <Time>2014-04-09T17:51:52.1237714+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Turtle\spr_sneeze@9.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_sneeze@9.xnb</Output>
-      <Time>2012-05-31T19:25:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_sneeze@9.xnb</Output>
+      <Time>2014-04-09T17:51:52.1297717+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Flame\spr_flame@9.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Flame\spr_flame@9.xnb</Output>
-      <Time>2012-05-31T22:58:48+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Flame\spr_flame@9.xnb</Output>
+      <Time>2014-04-09T17:51:52.0317661+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Rocket\spr_rocket@3.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Rocket\spr_rocket@3.xnb</Output>
-      <Time>2012-06-01T00:02:24+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Rocket\spr_rocket@3.xnb</Output>
+      <Time>2014-04-09T17:51:52.0847692+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_idle.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_idle.xnb</Output>
-      <Time>2012-06-01T16:03:32+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_idle.xnb</Output>
+      <Time>2014-04-09T17:51:52.1207712+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_electrocute.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute.xnb</Output>
-      <Time>2012-06-01T12:34:00+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute.xnb</Output>
+      <Time>2014-04-09T17:51:52.0877693+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_celebrate@14.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_celebrate@14.xnb</Output>
-      <Time>2012-06-01T13:22:18+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_celebrate@14.xnb</Output>
+      <Time>2014-04-09T17:51:52.0427668+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_electrocute@6x5.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute@6x5.xnb</Output>
-      <Time>2012-06-01T15:49:32+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute@6x5.xnb</Output>
+      <Time>2014-04-09T17:51:52.09877+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_timer.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_timer.xnb</Output>
-      <Time>2012-06-03T13:51:50+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_timer.xnb</Output>
+      <Time>2014-04-09T17:51:52.2687797+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_levelselect.jpg</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_levelselect.xnb</Output>
-      <Time>2012-06-04T18:08:58+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_levelselect.xnb</Output>
+      <Time>2014-04-09T17:51:51.6317433+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_help.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_help.xnb</Output>
-      <Time>2012-06-04T18:14:10+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_help.xnb</Output>
+      <Time>2014-04-09T17:51:52.1377722+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_play.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_play.xnb</Output>
-      <Time>2012-06-04T18:14:10+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_play.xnb</Output>
+      <Time>2014-04-09T17:51:52.1397723+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_help.jpg</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_help.xnb</Output>
-      <Time>2012-06-05T23:00:02+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_help.xnb</Output>
+      <Time>2014-04-09T17:51:51.6027416+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_back.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_back.xnb</Output>
-      <Time>2012-06-04T18:19:36+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_back.xnb</Output>
+      <Time>2014-04-09T17:51:52.1357721+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_locked.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_locked.xnb</Output>
-      <Time>2012-06-04T18:31:40+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_locked.xnb</Output>
+      <Time>2014-04-09T17:51:52.1467727+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_solved.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_solved.xnb</Output>
-      <Time>2012-06-04T18:31:40+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_solved.xnb</Output>
+      <Time>2014-04-09T17:51:52.1487728+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_unsolved.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_unsolved.xnb</Output>
-      <Time>2012-06-04T18:31:40+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_unsolved.xnb</Output>
+      <Time>2014-04-09T17:51:52.151773+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_quit.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_quit.xnb</Output>
-      <Time>2012-06-04T18:37:54+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_quit.xnb</Output>
+      <Time>2014-04-09T17:51:52.1407724+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_title.jpg</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_title.xnb</Output>
-      <Time>2012-06-04T18:57:50+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_title.xnb</Output>
+      <Time>2014-04-09T17:51:51.6817461+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_gameover.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_gameover.xnb</Output>
-      <Time>2012-06-04T22:53:12+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_gameover.xnb</Output>
+      <Time>2014-04-09T17:51:51.7187482+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_welldone.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_welldone.xnb</Output>
-      <Time>2012-06-04T22:53:12+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_welldone.xnb</Output>
+      <Time>2014-04-09T17:51:51.7547503+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_frame_hint.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_frame_hint.xnb</Output>
-      <Time>2012-06-05T21:48:16+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_frame_hint.xnb</Output>
+      <Time>2014-04-09T17:51:51.714748+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_music.mp3</Source>
@@ -457,9 +457,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.xnb</Output>
-      <Extra>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.wma</Extra>
-      <Time>2013-04-22T16:05:50+03:00</Time>
+      <Output>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.xnb</Output>
+      <Extra>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.wma</Extra>
+      <Time>2014-04-09T17:51:51.8977585+03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -467,23 +467,23 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\Dropbox\игра\Content\TickTick\</RootDirectory>
-      <LoggerRootDirectory>D:\Dropbox\игра\TickTick5\TickTick5\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Dropbox\игра\Content\TickTick\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\Dropbox\игра\TickTick5\TickTick5\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\georgeukrainian\Documents\GitHub\game\игра\Content\TickTick\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\georgeukrainian\Documents\GitHub\game\игра\Content\TickTick\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2010-08-23T13:41:18+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2010-08-23T13:41:18+03:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-02-16T10:16:11.3730037+02:00</Value>
+        <Value>2014-02-22T19:50:57.3292177+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

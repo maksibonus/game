@@ -1,0 +1,4 @@
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\GameTests\bin\Debug\GameTests.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\GameTests\bin\Debug\GameTests.pdb
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\GameTests\obj\Debug\GameTests.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\GameTests\obj\Debug\GameTests.pdb
