@@ -110,5 +110,21 @@ namespace GameTests
         }
 
         #endregion Властивості
+
+        #region Методи
+
+        // Повертає індекс відповіді у колекції.
+        public int IndexOf(Answer answer)
+        {
+            return answers.IndexOf(answer);
+        }
+
+        // Повертає індекс відповіді у колекції.
+        public int IndexOf(string answerText)
+        {
+            return answers.IndexOf(this[answerText]);
+        }
+
+        #endregion Методи
     }
 }

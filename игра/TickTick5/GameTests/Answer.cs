@@ -12,6 +12,7 @@ namespace GameTests
 
         string text;                // текст відповіді
         bool isRight;               // прапорець, що вказує, чи є відповідь вірною
+        Question question;          // класс запитання, якому належить відповідь
 
         #endregion Поля класу
 
@@ -21,6 +22,7 @@ namespace GameTests
         public Answer()
         {
 #warning Додати реалізацію!
+            question = null;
         }
 
         #endregion Конструктори
@@ -42,6 +44,19 @@ namespace GameTests
             get
             {
                 return isRight;
+            }
+        }
+
+        // Повертає або задає класс запитання, якому належить відповідь.
+        public Question Question
+        {
+            internal set
+            {
+                question = value;
+            }
+            get
+            {
+                return question;
             }
         }
 
