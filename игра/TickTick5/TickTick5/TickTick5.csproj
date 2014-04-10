@@ -93,6 +93,9 @@
     <Reference Include="mscorlib">
       <Private>False</Private>
     </Reference>
+    <Reference Include="RamGec XNA Controls">
+      <HintPath>..\..\RamGec XNA Controls\RamGec XNA Controls.dll</HintPath>
+    </Reference>
     <Reference Include="System">
       <Private>False</Private>
     </Reference>
