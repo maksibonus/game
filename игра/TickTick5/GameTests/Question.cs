@@ -71,6 +71,63 @@ namespace GameTests
             return answers[answerText].IsRight;
         }
 
+        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        public AnswerInfo AreRightAnswers(int[] answersIndexes)
+        {
+            AnswerInfo answerInfo = new AnswerInfo();
+
+            answerInfo.RightAnswersCount = 0;
+            answerInfo.WrongAnswersCount = 0;
+
+            foreach (int answerIndex in answersIndexes)
+            {
+                if (this.answers[answerIndex].IsRight)
+                    answerInfo.RightAnswersCount++;
+                else
+                    answerInfo.WrongAnswersCount++;
+            }
+
+            return answerInfo;
+        }
+
+        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        public AnswerInfo AreRightAnswers(string[] answersTextStrings)
+        {
+            AnswerInfo answerInfo = new AnswerInfo();
+
+            answerInfo.RightAnswersCount = 0;
+            answerInfo.WrongAnswersCount = 0;
+
+            foreach (string answerText in answersTextStrings)
+            {
+                if (this.answers[answerText].IsRight)
+                    answerInfo.RightAnswersCount++;
+                else
+                    answerInfo.WrongAnswersCount++;
+            }
+
+            return answerInfo;
+        }
+
+        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        public AnswerInfo AreRightAnswers(Answer[] answerArray)
+        {
+            AnswerInfo answerInfo = new AnswerInfo();
+
+            answerInfo.RightAnswersCount = 0;
+            answerInfo.WrongAnswersCount = 0;
+
+            foreach (Answer answer in answerArray)
+            {
+                if (answer.IsRight)
+                    answerInfo.RightAnswersCount++;
+                else
+                    answerInfo.WrongAnswersCount++;
+            }
+
+            return answerInfo;
+        }
+
         #endregion Методи
     }
 }
