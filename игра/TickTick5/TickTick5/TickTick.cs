@@ -4,9 +4,9 @@ using RamGecXNAControls;
 
 class TickTick : GameEnvironment
 {
+    public static TickTick game = new TickTick();
     static void Main()
     {
-        TickTick game = new TickTick();
         game.Run();
     }
 

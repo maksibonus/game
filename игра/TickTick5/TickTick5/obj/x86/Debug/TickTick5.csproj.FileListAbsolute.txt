@@ -284,3 +284,5 @@ D:\GitHub\game\игра\TickTick5\TickTick5\obj\x86\Debug\TickTick.exe
 D:\GitHub\game\игра\TickTick5\TickTick5\obj\x86\Debug\TickTick.pdb
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.dll
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.xml
+D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.dll
+D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.pdb

@@ -6,6 +6,7 @@ using RamGecXNAControls;
 using RamGecXNAControls.ExtendedControls;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using GameTests;
 
 namespace GameManagement.gameobjects
 {
@@ -18,9 +19,8 @@ namespace GameManagement.gameobjects
         public TestWindow()
         {
             myWindow = new Window(new Rectangle(10, 10, 300, 200), "Window Title");
-            myButton = new RamGecXNAControls.Button(new Rectangle(50, 50, 0, 0), "My Button Text");
-            myButton.Parent = myWindow;
 
+            myButton = new RamGecXNAControls.Button(new Rectangle(50, 50, 0, 0), "My Button Text");
             // assign OnClick event
             myButton.OnClick += (sender) => 
             {   
@@ -40,5 +40,21 @@ namespace GameManagement.gameobjects
             myWindow.Controls.Add(myLabel);
             myWindow.Draw(spriteBatch);
         }
+
+        //public void Ololo()
+        //{
+        //    Question question = TestManager.GetRandomQuestion();
+        //    if (question.Type == QuestionType.CheckBox)
+        //    {
+        //        foreach (Answer answer in question.Answers)
+        //        {
+        //            //answer.Text;
+        //        }
+        //    }
+        //    AnswerInfo a = question.AreRightAnswers(new int[] { 1, 2 });
+        //    if (a.RightAnswersCount == a.AnswersCount && a.RightAnswersCount == question.Answers.RightCount)
+        //    { 
+        //    }
+        //}
     }
 }
