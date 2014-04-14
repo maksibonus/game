@@ -6,6 +6,7 @@ class TickTick : GameEnvironment
 {
     static void Main()
     {
+        GameTests.TestManager.Initialize();
         TickTick game = new TickTick();
         game.Run();
     }

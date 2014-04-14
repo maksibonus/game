@@ -168,6 +168,10 @@
       <Project>{6CEB5F37-0BFA-4A0D-8DB7-B25ECD81CAAE}</Project>
       <Name>GameManagement</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GameTests\GameTests.csproj">
+      <Project>{A2EC2AA2-9102-4262-BFE7-390B05E61655}</Project>
+      <Name>GameTests</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\app.manifest" />
