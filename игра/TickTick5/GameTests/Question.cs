@@ -5,48 +5,69 @@ using System.Text;
 
 namespace GameTests
 {
-    // Клас, що зберігає в собі запитання та відповіді на нього.
+    /// <summary>
+    /// Клас, що зберігає в собі запитання та відповіді на нього.
+    /// </summary>
     public class Question
     {
         #region Поля класу
 
-        string text;                // текст запитання
-        QuestionType type;          // тип запитання
-        AnswerCollection answers;   // колекція відповідей на запитання
+        /// <summary>
+        /// Текст запитання.
+        /// </summary>
+        string text;
+
+        /// <summary>
+        /// Колекція відповідей на запитання.
+        /// </summary>
+        AnswerCollection answers;
 
         #endregion Поля класу
 
         #region Конструктори
 
-        // Ініціалізує клас початковими значеннями за замовчуванням.
+        /// <summary>
+        /// Ініціалізує поля класу початковими значеннями за замовчуванням.
+        /// </summary>
         public Question()
         {
-#warning Додати реалізацію!
+            text = "";
+            answers = new AnswerCollection();
         }
 
         #endregion Конструктори
 
         #region Властивості
 
-        // Повертає текст запитання.
+        /// <summary>
+        /// Повертає текст запитання.
+        /// </summary>
         public string Text
         {
+            internal set
+            {
+                text = value;
+            }
             get
             {
                 return text;
             }
         }
 
-        // Повертає тип запитання.
+        /// <summary>
+        /// Повертає тип запитання.
+        /// </summary>
         public QuestionType Type
         {
             get
             {
-                return type;
+                return answers.RightCount > 1 ? QuestionType.CheckBox : QuestionType.RadioButton;
             }
         }
 
-        // Повертає колекцію відповідей на запитання.
+        /// <summary>
+        /// Повертає колекцію відповідей на запитання.
+        /// </summary>
         public AnswerCollection Answers
         {
             get
@@ -59,19 +80,31 @@ namespace GameTests
 
         #region Методи
 
-        // Повертає true, якщо відповідь за вказаним номером є вірною.
+        /// <summary>
+        /// Повідомляє, чи є вірною відповідь за вказаним номером.
+        /// </summary>
+        /// <param name="answerIndex">Номер відповіді.</param>
+        /// <returns>true, якщо відповідь є вірною, інакше - false.</returns>
         public bool IsRightAnswer(int answerIndex)
         {
             return answers[answerIndex].IsRight;
         }
 
-        // Повертає true, якщо відповідь за вказаним текстом є вірною.
+        /// <summary>
+        /// Повідомляє, чи є вірною відповідь за вказаним текстом.
+        /// </summary>
+        /// <param name="answerText">Текст відповіді.</param>
+        /// <returns>true, якщо відповідь є вірною, інакше - false.</returns>
         public bool IsRightAnswer(string answerText)
         {
             return answers[answerText].IsRight;
         }
 
-        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        /// <summary>
+        /// Повідомляє про кількість правильних і неправильних відповідей.
+        /// </summary>
+        /// <param name="answersIndexes">Масив номерів відповідей.</param>
+        /// <returns>Структура, що містить інформацію про кількість правильних та неправильних відповідей.</returns>
         public AnswerInfo AreRightAnswers(int[] answersIndexes)
         {
             AnswerInfo answerInfo = new AnswerInfo();
@@ -90,7 +123,11 @@ namespace GameTests
             return answerInfo;
         }
 
-        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        /// <summary>
+        /// Повідомляє про кількість правильних і неправильних відповідей.
+        /// </summary>
+        /// <param name="answersTextStrings">Масив текстів відповідей.</param>
+        /// <returns>Структура, що містить інформацію про кількість правильних та неправильних відповідей.</returns>
         public AnswerInfo AreRightAnswers(string[] answersTextStrings)
         {
             AnswerInfo answerInfo = new AnswerInfo();
@@ -109,7 +146,11 @@ namespace GameTests
             return answerInfo;
         }
 
-        // Повертає інформацію про кількість правильних і неправильних відповідей.
+        /// <summary>
+        /// Повідомляє про кількість правильних і неправильних відповідей.
+        /// </summary>
+        /// <param name="answerArray">Масив відповідей.</param>
+        /// <returns>Структура, що містить інформацію про кількість правильних та неправильних відповідей.</returns>
         public AnswerInfo AreRightAnswers(Answer[] answerArray)
         {
             AnswerInfo answerInfo = new AnswerInfo();
