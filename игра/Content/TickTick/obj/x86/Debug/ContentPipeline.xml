@@ -8,7 +8,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
-      <Time>2014-04-09T14:31:40.8964373+03:00</Time>
+      <Time>2014-04-09T15:57:51.6870208+03:00</Time>
     </Item>
     <Item>
       <Source>Fonts\HintFont.spritefont</Source>
@@ -17,7 +17,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Fonts\HintFont.xnb</Output>
-      <Time>2014-04-09T14:31:40.8954372+03:00</Time>
+      <Time>2014-04-09T15:57:51.6840187+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_fall.wma</Source>
@@ -26,7 +26,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_fall.xnb</Output>
-      <Time>2014-04-09T14:31:40.9384397+03:00</Time>
+      <Time>2014-04-09T15:57:51.7370562+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_jump.wma</Source>
@@ -35,7 +35,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_jump.xnb</Output>
-      <Time>2014-04-09T14:31:40.9394397+03:00</Time>
+      <Time>2014-04-09T15:57:51.7530675+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_die.wma</Source>
@@ -44,7 +44,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_die.xnb</Output>
-      <Time>2014-04-09T14:31:40.9364396+03:00</Time>
+      <Time>2014-04-09T15:57:51.734054+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_player_won.wma</Source>
@@ -53,7 +53,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_player_won.xnb</Output>
-      <Time>2014-04-09T14:31:40.9414398+03:00</Time>
+      <Time>2014-04-09T15:57:51.7560696+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_watercollected.wma</Source>
@@ -62,7 +62,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_watercollected.xnb</Output>
-      <Time>2014-04-09T14:31:40.9424399+03:00</Time>
+      <Time>2014-04-09T15:57:51.7580719+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_sky.jpg</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_sky.xnb</Output>
-      <Time>2014-04-09T14:31:40.8904369+03:00</Time>
+      <Time>2014-04-09T15:57:51.6790152+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_3.png</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_3.xnb</Output>
-      <Time>2014-04-09T14:31:40.8474345+03:00</Time>
+      <Time>2014-04-09T15:57:51.6519961+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_4.png</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_4.xnb</Output>
-      <Time>2014-04-09T14:31:40.8534348+03:00</Time>
+      <Time>2014-04-09T15:57:51.6549986+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_5.png</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_5.xnb</Output>
-      <Time>2014-04-09T14:31:40.8584351+03:00</Time>
+      <Time>2014-04-09T15:57:51.6569996+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_mountain_1.png</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_1.xnb</Output>
-      <Time>2014-04-09T14:31:40.8764361+03:00</Time>
+      <Time>2014-04-09T15:57:51.6720248+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_mountain_2.png</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_mountain_2.xnb</Output>
-      <Time>2014-04-09T14:31:40.8854366+03:00</Time>
+      <Time>2014-04-09T15:57:51.676013+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_2.png</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_2.xnb</Output>
-      <Time>2014-04-09T14:31:40.8444343+03:00</Time>
+      <Time>2014-04-09T15:57:51.6509954+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_cloud_1.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_cloud_1.xnb</Output>
-      <Time>2014-04-09T14:31:40.8404341+03:00</Time>
+      <Time>2014-04-09T15:57:51.6489944+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_water.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_water.xnb</Output>
-      <Time>2014-04-09T14:31:41.0764476+03:00</Time>
+      <Time>2014-04-09T15:57:51.8005254+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform_hot.png</Source>
@@ -152,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_hot.xnb</Output>
-      <Time>2014-04-09T14:31:41.0804478+03:00</Time>
+      <Time>2014-04-09T15:57:51.8055272+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform_ice.png</Source>
@@ -161,7 +161,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform_ice.xnb</Output>
-      <Time>2014-04-09T14:31:41.084448+03:00</Time>
+      <Time>2014-04-09T15:57:51.8055272+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_platform.png</Source>
@@ -170,7 +170,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_platform.xnb</Output>
-      <Time>2014-04-09T14:31:41.0794477+03:00</Time>
+      <Time>2014-04-09T15:57:51.8045402+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall.png</Source>
@@ -179,7 +179,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall.xnb</Output>
-      <Time>2014-04-09T14:31:41.0854481+03:00</Time>
+      <Time>2014-04-09T15:57:51.8065275+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall_hot.png</Source>
@@ -188,7 +188,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_hot.xnb</Output>
-      <Time>2014-04-09T14:31:41.0864481+03:00</Time>
+      <Time>2014-04-09T15:57:51.8075282+03:00</Time>
     </Item>
     <Item>
       <Source>Tiles\spr_wall_ice.png</Source>
@@ -197,7 +197,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Tiles\spr_wall_ice.xnb</Output>
-      <Time>2014-04-09T14:31:41.0874482+03:00</Time>
+      <Time>2014-04-09T15:57:51.8075282+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_goal.png</Source>
@@ -206,7 +206,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_goal.xnb</Output>
-      <Time>2014-04-09T14:31:41.0704472+03:00</Time>
+      <Time>2014-04-09T15:57:51.7802435+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_die@5.png</Source>
@@ -215,7 +215,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_die@5.xnb</Output>
-      <Time>2014-04-09T14:31:40.9484402+03:00</Time>
+      <Time>2014-04-09T15:57:51.7630745+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_jump@14.png</Source>
@@ -224,7 +224,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_jump@14.xnb</Output>
-      <Time>2014-04-09T14:31:41.0034434+03:00</Time>
+      <Time>2014-04-09T15:57:51.7690784+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_run@13.png</Source>
@@ -233,7 +233,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_run@13.xnb</Output>
-      <Time>2014-04-09T14:31:41.0084437+03:00</Time>
+      <Time>2014-04-09T15:57:51.7712042+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_explode@5x5.png</Source>
@@ -242,7 +242,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_explode@5x5.xnb</Output>
-      <Time>2014-04-09T14:31:40.9954429+03:00</Time>
+      <Time>2014-04-09T15:57:51.7660762+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_idle.png</Source>
@@ -251,7 +251,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_idle.xnb</Output>
-      <Time>2014-04-09T14:31:41.0004432+03:00</Time>
+      <Time>2014-04-09T15:57:51.7670769+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Turtle\spr_idle.png</Source>
@@ -260,7 +260,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_idle.xnb</Output>
-      <Time>2014-04-09T14:31:41.0214444+03:00</Time>
+      <Time>2014-04-09T15:57:51.7768766+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Turtle\spr_sneeze@9.png</Source>
@@ -269,7 +269,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Turtle\spr_sneeze@9.xnb</Output>
-      <Time>2014-04-09T14:31:41.0234445+03:00</Time>
+      <Time>2014-04-09T15:57:51.7778936+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Flame\spr_flame@9.png</Source>
@@ -278,7 +278,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Flame\spr_flame@9.xnb</Output>
-      <Time>2014-04-09T14:31:40.94444+03:00</Time>
+      <Time>2014-04-09T15:57:51.7600724+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Rocket\spr_rocket@3.png</Source>
@@ -287,7 +287,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Rocket\spr_rocket@3.xnb</Output>
-      <Time>2014-04-09T14:31:41.0114438+03:00</Time>
+      <Time>2014-04-09T15:57:51.7712042+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_idle.png</Source>
@@ -296,7 +296,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_idle.xnb</Output>
-      <Time>2014-04-09T14:31:41.0194443+03:00</Time>
+      <Time>2014-04-09T15:57:51.7752126+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_electrocute.png</Source>
@@ -305,7 +305,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute.xnb</Output>
-      <Time>2014-04-09T14:31:41.014444+03:00</Time>
+      <Time>2014-04-09T15:57:51.7722088+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Player\spr_celebrate@14.png</Source>
@@ -314,7 +314,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Player\spr_celebrate@14.xnb</Output>
-      <Time>2014-04-09T14:31:40.9464401+03:00</Time>
+      <Time>2014-04-09T15:57:51.762073+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Sparky\spr_electrocute@6x5.png</Source>
@@ -323,7 +323,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\Sparky\spr_electrocute@6x5.xnb</Output>
-      <Time>2014-04-09T14:31:41.0164441+03:00</Time>
+      <Time>2014-04-09T15:57:51.7752126+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_timer.png</Source>
@@ -332,7 +332,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_timer.xnb</Output>
-      <Time>2014-04-09T14:31:41.0754475+03:00</Time>
+      <Time>2014-04-09T15:57:51.7833803+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_levelselect.jpg</Source>
@@ -341,7 +341,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_levelselect.xnb</Output>
-      <Time>2014-04-09T14:31:40.8694357+03:00</Time>
+      <Time>2014-04-09T15:57:51.6670088+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_help.png</Source>
@@ -350,7 +350,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_help.xnb</Output>
-      <Time>2014-04-09T14:31:41.067447+03:00</Time>
+      <Time>2014-04-09T15:57:51.7792411+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_play.png</Source>
@@ -359,7 +359,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_play.xnb</Output>
-      <Time>2014-04-09T14:31:41.0684471+03:00</Time>
+      <Time>2014-04-09T15:57:51.7792411+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_help.jpg</Source>
@@ -368,7 +368,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_help.xnb</Output>
-      <Time>2014-04-09T14:31:40.8634354+03:00</Time>
+      <Time>2014-04-09T15:57:51.6620138+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_back.png</Source>
@@ -377,7 +377,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_back.xnb</Output>
-      <Time>2014-04-09T14:31:41.066447+03:00</Time>
+      <Time>2014-04-09T15:57:51.7778936+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_locked.png</Source>
@@ -386,7 +386,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_locked.xnb</Output>
-      <Time>2014-04-09T14:31:41.0724473+03:00</Time>
+      <Time>2014-04-09T15:57:51.7812438+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_solved.png</Source>
@@ -395,7 +395,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_solved.xnb</Output>
-      <Time>2014-04-09T14:31:41.0734474+03:00</Time>
+      <Time>2014-04-09T15:57:51.7823754+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_level_unsolved.png</Source>
@@ -404,7 +404,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_level_unsolved.xnb</Output>
-      <Time>2014-04-09T14:31:41.0744474+03:00</Time>
+      <Time>2014-04-09T15:57:51.7823754+03:00</Time>
     </Item>
     <Item>
       <Source>Sprites\spr_button_quit.png</Source>
@@ -413,7 +413,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sprites\spr_button_quit.xnb</Output>
-      <Time>2014-04-09T14:31:41.0694472+03:00</Time>
+      <Time>2014-04-09T15:57:51.7802435+03:00</Time>
     </Item>
     <Item>
       <Source>Backgrounds\spr_title.jpg</Source>
@@ -422,7 +422,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Backgrounds\spr_title.xnb</Output>
-      <Time>2014-04-09T14:31:40.8934371+03:00</Time>
+      <Time>2014-04-09T15:57:51.6830184+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_gameover.png</Source>
@@ -431,7 +431,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_gameover.xnb</Output>
-      <Time>2014-04-09T14:31:40.9044377+03:00</Time>
+      <Time>2014-04-09T15:57:51.6950273+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_welldone.png</Source>
@@ -440,7 +440,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_welldone.xnb</Output>
-      <Time>2014-04-09T14:31:40.9054378+03:00</Time>
+      <Time>2014-04-09T15:57:51.6960285+03:00</Time>
     </Item>
     <Item>
       <Source>Overlays\spr_frame_hint.png</Source>
@@ -449,7 +449,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Overlays\spr_frame_hint.xnb</Output>
-      <Time>2014-04-09T14:31:40.9034377+03:00</Time>
+      <Time>2014-04-09T15:57:51.6940262+03:00</Time>
     </Item>
     <Item>
       <Source>Sounds\snd_music.mp3</Source>
@@ -459,7 +459,7 @@
       <Options>None</Options>
       <Output>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.xnb</Output>
       <Extra>D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\Content\Sounds\snd_music.wma</Extra>
-      <Time>2014-04-09T14:31:40.9244389+03:00</Time>
+      <Time>2014-04-09T15:57:51.7320526+03:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -475,19 +475,19 @@
     <Assemblies>
       <Assembly>
         <Key>D:\GitHub\game\игра\RamGec XNA Controls\RamGec XNA Controls.dll</Key>
-        <Value>2014-04-10T12:07:09.6725184+03:00</Value>
+        <Value>2014-04-10T12:09:40.6571357+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+03:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+03:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-02-16T10:16:11.3730037+02:00</Value>
+        <Value>2014-04-10T12:30:33.6326847+03:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
