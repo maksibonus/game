@@ -1,9 +1,3 @@
-d:\Diploms 2013-2014\Христенко\GameManagement\bin\x86\Debug\GameManagement.dll
-d:\Diploms 2013-2014\Христенко\GameManagement\bin\x86\Debug\GameManagement.pdb
-d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
-d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.dll
-d:\Diploms 2013-2014\Христенко\GameManagement\obj\x86\Debug\GameManagement.pdb
 D:\Dropbox\игра\GameManagement\bin\x86\Debug\GameManagement.dll
 D:\Dropbox\игра\GameManagement\bin\x86\Debug\GameManagement.pdb
 D:\Dropbox\игра\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
@@ -26,13 +20,10 @@ C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\D
 C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.dll
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.pdb
-<<<<<<< HEAD
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Demo.exe
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.dll
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Window Designer.exe
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml
-=======
->>>>>>> 22c863c66b99ab5c7a18498048e9070d4ea9bf2c
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.UserControl1.resources
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache
