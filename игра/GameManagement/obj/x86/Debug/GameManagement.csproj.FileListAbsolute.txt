@@ -38,15 +38,4 @@ D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.dll
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.pdb
-<<<<<<< HEAD
-=======
-D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Demo.exe
-D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.dll
-D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Window Designer.exe
-D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml
-C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\Demo.exe
-C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.dll
-C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\Window Designer.exe
-C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
->>>>>>> 22c863c66b99ab5c7a18498048e9070d4ea9bf2c
