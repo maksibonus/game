@@ -5,58 +5,67 @@ using System.Text;
 
 namespace GameTests
 {
-    // Клас відповіді на запитання.
+    /// <summary>
+    /// Клас відповіді на запитання.
+    /// </summary>
     public class Answer
     {
         #region Поля класу
 
-        string text;                // текст відповіді
-        bool isRight;               // прапорець, що вказує, чи є відповідь вірною
-        Question question;          // класс запитання, якому належить відповідь
+        /// <summary>
+        /// Текст відповіді.
+        /// </summary>
+        string text;
+
+        /// <summary>
+        /// Прапорець, що вказує, чи є відповідь вірною.
+        /// </summary>
+        bool isRight;
 
         #endregion Поля класу
 
         #region Конструктори
 
-        // Ініціалізує клас початковими значеннями за замовчуванням.
+        /// <summary>
+        /// Ініціалізує поля класу початковими значеннями за замовчуванням.
+        /// </summary>
         public Answer()
         {
-#warning Додати реалізацію!
-            question = null;
+            text = "";
+            isRight = false;
         }
 
         #endregion Конструктори
 
         #region Властивості
 
-        // Повертає текст відповіді.
+        /// <summary>
+        /// Повертає текст відповіді.
+        /// </summary>
         public string Text
         {
+            internal set
+            {
+                text = value;
+            }
             get
             {
                 return text;
             }
         }
 
-        // Вказує, чи є відповідь вірною.
+        /// <summary>
+        /// Вказує, чи є відповідь вірною.
+        /// </summary>
         public bool IsRight
-        {
-            get
-            {
-                return isRight;
-            }
-        }
-
-        // Повертає або задає класс запитання, якому належить відповідь.
-        public Question Question
         {
             internal set
             {
-                question = value;
+                isRight = value;
             }
             get
             {
-                return question;
+                return isRight;
             }
         }
 

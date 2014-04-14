@@ -5,13 +5,22 @@ using System.Text;
 
 namespace GameTests
 {
-    // Структура, що містить інформацію про кількість правильних та неправильних відповідей.
+    /// <summary>
+    /// Структура, що містить інформацію про кількість правильних та неправильних відповідей.
+    /// </summary>
     public struct AnswerInfo
     {
         #region Поля структури
 
-        int rightAnswersCount;      // кількість неправильних відповідей
-        int wrongAnswersCount;      // кількість правильних відповідей
+        /// <summary>
+        /// Кількість неправильних відповідей.
+        /// </summary>
+        int rightAnswersCount;
+
+        /// <summary>
+        /// Кількість правильних відповідей.
+        /// </summary>
+        int wrongAnswersCount;
 
         #endregion Поля структури
 
@@ -28,7 +37,9 @@ namespace GameTests
 
         #region Властивості
 
-        // Повертає чи задає кількість правильних відповідей.
+        /// <summary>
+        /// Повертає чи задає кількість правильних відповідей.
+        /// </summary>
         public int RightAnswersCount
         {
             internal set
@@ -41,7 +52,9 @@ namespace GameTests
             }
         }
 
-        // Повертає чи задає кількість неправильних відповідей.
+        /// <summary>
+        /// Повертає чи задає кількість неправильних відповідей.
+        /// </summary>
         public int WrongAnswersCount
         {
             internal set
@@ -54,7 +67,9 @@ namespace GameTests
             }
         }
 
-        // Повертає загальну кількість відповідей.
+        /// <summary>
+        /// Повертає загальну кількість відповідей.
+        /// </summary>
         public int AnswersCount
         {
             get

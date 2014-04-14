@@ -1,2 +1,1 @@
 C:\Users\georgeukrainian\Documents\GitHub\game\игра\Content\TickTick\obj\x86\Debug\TickTick.contentprojResolveAssemblyReference.cache
-D:\GitHub\game\игра\Content\TickTick\obj\x86\Debug\TickTick.contentprojResolveAssemblyReference.cache
