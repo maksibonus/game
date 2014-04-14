@@ -26,22 +26,22 @@ class QuestionState: GameObjectList
         myButton = new RamGecXNAControls.Button(new Rectangle(60,60,40,30), "Cancel");//(myWindow.AbsoluteBounds.Width / 2) - 40, (myWindow.AbsoluteBounds.Height / 2) - 30, 40, 30), "Відміна");
         myButton.Name = "Cancel";
         myButton.Parent = myWindow;
-        //myButton.OnClick += (sender) => { myWindow.Visible=false; };
+        myButton.OnClick += (sender) => { GameEnvironment.GameStateManager.SwitchTo("playingState"); };
         guiManager.Controls.Add(myButton);
     }
 
-    public override void HandleInput(InputHelper inputHelper)
-    {
-        base.HandleInput(inputHelper);
-        if (guiManager.GetControl("Cancel").Focused)
-        {
-            GameEnvironment.GameStateManager.SwitchTo("playingState");
-        }
-        else
-        {
-            GameEnvironment.GameStateManager.SwitchTo("questionState");
-        }
-    }
+    //public override void HandleInput(InputHelper inputHelper)
+    //{
+    //    base.HandleInput(inputHelper);
+    //    if (guiManager.GetControl("Cancel").Focused)
+    //    {
+    //        GameEnvironment.GameStateManager.SwitchTo("playingState");
+    //    }
+    //    else
+    //    {
+    //        GameEnvironment.GameStateManager.SwitchTo("questionState");
+    //    }
+    //}
     public override void Update(GameTime gameTime)
     {
         foreach (var control in guiManager.Controls)
