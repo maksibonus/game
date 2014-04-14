@@ -28,7 +28,7 @@ partial class Level : GameObjectList
         SpriteGameObject timerBackground = new SpriteGameObject("Sprites/spr_timer", 100);
         timerBackground.Position = new Vector2(10, 10);
         this.Add(timerBackground);
-        TimerGameObject timer = new TimerGameObject(101, "timer");
+        TimerGameObject timer = new TimerGameObject(100, "timer");
         timer.Position = new Vector2(25, 30);
         this.Add(timer);
 
