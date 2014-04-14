@@ -32,3 +32,7 @@ D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Demo.exe
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.dll
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\Window Designer.exe
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\Demo.exe
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\Window Designer.exe
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\bin\x86\Debug\RamGec XNA Controls.xml

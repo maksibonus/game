@@ -284,5 +284,13 @@ D:\GitHub\game\игра\TickTick5\TickTick5\obj\x86\Debug\TickTick.exe
 D:\GitHub\game\игра\TickTick5\TickTick5\obj\x86\Debug\TickTick.pdb
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.dll
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.xml
+<<<<<<< HEAD
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\RamGec XNA Controls.xml
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.dll
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.pdb
+C:\Users\georgeukrainian\Documents\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\gametest.xml
+=======
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.dll
 D:\GitHub\game\игра\TickTick5\TickTick5\bin\x86\Debug\GameTests.pdb
+>>>>>>> 7bbb3be79357107ad8eb991c36352a3bad4c31a3
