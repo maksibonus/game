@@ -22,7 +22,6 @@ C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\D
 C:\Users\georgeukrainian\Documents\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.pdb
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.dll
 D:\GitHub\game\игра\GameManagement\bin\x86\Debug\GameManagement.pdb
-D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.gameobjects.UserControl1.resources
 D:\GitHub\game\игра\GameManagement\obj\x86\Debug\GameManagement.csproj.GenerateResource.Cache

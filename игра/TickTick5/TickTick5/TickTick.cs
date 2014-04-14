@@ -7,7 +7,7 @@ class TickTick : GameEnvironment
     public static TickTick game = new TickTick();
     static void Main()
     {
-        GameTests.TestManager.Initialize();
+        //GameTests.TestManager.Initialize();
         TickTick game = new TickTick();
         game.Run();
     }
