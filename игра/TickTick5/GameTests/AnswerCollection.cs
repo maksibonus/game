@@ -6,26 +6,39 @@ using System.Collections;
 
 namespace GameTests
 {
-    // Колекція відповідей.
+    /// <summary>
+    /// Колекція відповідей.
+    /// </summary>
     public class AnswerCollection : IEnumerable, IEnumerator
     {
         #region Поля класу
 
-        List<Answer> answers;       // список відповідей
-        int rightCount;             // кількість правильних відповідей
-        int index;                  // індекс, що використовується інтерфейсом IEnumerator
+        /// <summary>
+        /// Список відповідей.
+        /// </summary>
+        List<Answer> answers;
+
+        /// <summary>
+        /// Кількість правильних відповідей.
+        /// </summary>
+        int rightCount;
+
+        /// <summary>
+        /// Індекс, що використовується інтерфейсом IEnumerator.
+        /// </summary>
+        int index;
 
         #endregion Поля класу
 
         #region Реалізація інтерфейсів
 
-        // Реалізуємо інтерфейс IEnumerable
+        // Реалізуємо інтерфейс IEnumerable.
         public IEnumerator GetEnumerator()
         {
             return this;
         }
 
-        // Реалізуємо інтерфейс IEnumerator
+        // Реалізуємо інтерфейс IEnumerator.
         public bool MoveNext()
         {
             if (index == answers.Count - 1)
@@ -55,10 +68,13 @@ namespace GameTests
 
         #region Конструктори
 
-        // Ініціалізує клас початковими значеннями за замовчуванням.
+        /// <summary>
+        /// Ініціалізує поля класу початковими значеннями за замовчуванням.
+        /// </summary>
         public AnswerCollection()
         {
-#warning Додати реалізацію!
+            answers = new List<Answer>();
+            rightCount = 0;
             index = -1;
         }
 
@@ -66,7 +82,11 @@ namespace GameTests
 
         #region Індексатори
 
-        // Повертає відповідь за вказаним номером.
+        /// <summary>
+        /// Повертає відповідь за вказаним номером.
+        /// </summary>
+        /// <param name="i">Номер відповіді.</param>
+        /// <returns>Відповідь за вказаним номером.</returns>
         public Answer this[int i]
         {
             get
@@ -75,7 +95,11 @@ namespace GameTests
             }
         }
 
-        // Повертає відповідь за вказаним текстом.
+        /// <summary>
+        /// Повертає відповідь за вказаним текстом.
+        /// </summary>
+        /// <param name="text">Текст відповіді.</param>
+        /// <returns>Відповідь за вказаним текстом.</returns>
         public Answer this[string text]
         {
             get
@@ -91,7 +115,9 @@ namespace GameTests
 
         #region Властивості
 
-        // Повертає кількість відповідей у колекції.
+        /// <summary>
+        /// Повертає кількість відповідей у колекції.
+        /// </summary>
         public int Count
         {
             get
@@ -100,7 +126,9 @@ namespace GameTests
             }
         }
 
-        // Повертає кількість правильних відповідей у колекції.
+        /// <summary>
+        /// Повертає кількість правильних відповідей у колекції.
+        /// </summary>
         public int RightCount
         {
             get
@@ -113,13 +141,32 @@ namespace GameTests
 
         #region Методи
 
-        // Повертає індекс відповіді у колекції.
+        /// <summary>
+        /// Додає відповідь до колекції.
+        /// </summary>
+        /// <param name="answer">Відповідь, яку необхідно додати до колекції.</param>
+        internal void Add(Answer answer)
+        {
+            answers.Add(answer);
+            if (answer.IsRight)
+                rightCount++;
+        }
+
+        /// <summary>
+        /// Повертає індекс відповіді у колекції.
+        /// </summary>
+        /// <param name="answer">Відповідь, індекс у колекції якої необхідно отримати.</param>
+        /// <returns>Індекс відповіді у колекції.</returns>
         public int IndexOf(Answer answer)
         {
             return answers.IndexOf(answer);
         }
 
-        // Повертає індекс відповіді у колекції.
+        /// <summary>
+        /// Повертає індекс відповіді у колекції.
+        /// </summary>
+        /// <param name="answerText">Текст відповіді, індекс у колекції якої необхідно отримати.</param>
+        /// <returns>Індекс відповіді у колекції.</returns>
         public int IndexOf(string answerText)
         {
             return answers.IndexOf(this[answerText]);

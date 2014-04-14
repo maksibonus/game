@@ -5,10 +5,19 @@ using System.Text;
 
 namespace GameTests
 {
-    // Перерахування типів запитань.
+    /// <summary>
+    /// Перерахування типів запитань.
+    /// </summary>
     public enum QuestionType
     {
-        RadioButton,    // перемикач (одна правильна відповідь)
-        CheckBox        // прапорець (декілька правильних відповідей)
+        /// <summary>
+        /// Перемикач (одна правильна відповідь).
+        /// </summary>
+        RadioButton,
+
+        /// <summary>
+        /// Прапорець (декілька правильних відповідей).
+        /// </summary>
+        CheckBox
     }
 }
